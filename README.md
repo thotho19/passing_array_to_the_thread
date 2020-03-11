@@ -1,0 +1,2 @@
+# passing_array_to_the_thread
+passing_array_to_the_thread
